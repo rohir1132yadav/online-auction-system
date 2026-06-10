@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 # Online Auction System
 
@@ -7,16 +7,16 @@
 [![Live Demo](https://img.shields.io/badge/Live-auction.ihavetech.com-indigo?style=for-the-badge&logo=googlechrome&logoColor=white)](https://auction.ihavetech.com)
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-![License](https://img.shields.io/github/license/theavnishkumar/online-auction-system?style=flat-square)
+![License](https://img.shields.io/github/license/rohir1132yadav/online-auction-system?style=flat-square)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-blue?style=flat-square)
-![Issues](https://img.shields.io/github/issues/theavnishkumar/online-auction-system?style=flat-square)
-![Forks](https://img.shields.io/github/forks/theavnishkumar/online-auction-system?style=flat-square)
-![Stars](https://img.shields.io/github/stars/theavnishkumar/online-auction-system?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/theavnishkumar/online-auction-system?style=flat-square)
+![Issues](https://img.shields.io/github/issues/rohir1132yadav/online-auction-system?style=flat-square)
+![Forks](https://img.shields.io/github/forks/rohir1132yadav/online-auction-system?style=flat-square)
+![Stars](https://img.shields.io/github/stars/rohir1132yadav/online-auction-system?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/rohir1132yadav/online-auction-system?style=flat-square)
 
 **Create auctions · Bid in real-time · Manage everything from an admin panel**
 
-[Live Demo](https://auction.ihavetech.com) · [Report Bug](https://github.com/theavnishkumar/online-auction-system/issues) · [Request Feature](https://github.com/theavnishkumar/online-auction-system/issues) · [Architecture](./ARCHITECTURE.md) · [Learning Guide](./LEARNING_GUIDE.md) · [Backend Docs](./server/README.md) · [Frontend Docs](./client/README.md)
+[Live Demo](https://auction.ihavetech.com) · [Report Bug](https://github.com/rohir1132yadav/online-auction-system/issues) · [Request Feature](https://github.com/rohir1132yadav/online-auction-system/issues) · [Architecture](./ARCHITECTURE.md) · [Learning Guide](./LEARNING_GUIDE.md) · [Backend Docs](./server/README.md) · [Frontend Docs](./client/README.md)
 
 </div>
 
@@ -68,7 +68,7 @@ Most auction system tutorials stop at basic CRUD. This project goes much further
 - **Smart UX** — Hover prefetching, View Transitions API, live countdown timers, auto-winner detection
 - **Deployment-ready** — CI/CD pipeline, Vercel serverless support, AWS EC2 with PM2, graceful shutdown
 
-> Built as a **Major Project for Computer Science Engineering** by [Avnish Kumar](https://github.com/theavnishkumar), designed to be a real-world reference for full-stack MERN development.
+> Built as a **Major Project for Computer Science Engineering** by [Rohit Yadav](https://github.com/rohir1132yadav), designed to be a real-world reference for full-stack MERN development.
 >
 > 📖 **New here?** Read the [Architecture Guide](./ARCHITECTURE.md) to understand how the system works, and the [Learning Guide](./LEARNING_GUIDE.md) to see what's implemented, why, and what you can build next.
 
@@ -138,7 +138,7 @@ Cloudinary CDN
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/theavnishkumar/online-auction-system.git
+git clone https://github.com/rohir1132yadav/online-auction-system.git
 cd online-auction-system
 
 # Install backend
@@ -415,11 +415,12 @@ Distributed under the **MIT License**. See [LICENSE](LICENSE) for more informati
 <div align="center">
 
 <<<<<<< HEAD
-Developed by [Avnish Kumar](https://github.com/theavnishkumar). Built for educational, security-focused, and full-stack learning purposes.
-#   o n l i n e - a u c t i o n - p l a t f o r m  
+Developed by [Rohit Yadav](https://github.com/rohir1132yadav). Built for educational, security-focused, and full-stack learning purposes.
+#   o n l i n e - a u c t i o n - p l a t f o r m 
+ 
  
 =======
-**Built by [Avnish Kumar](https://github.com/theavnishkumar)**
+**Built by [Rohit Yadav](https://github.com/rohir1132yadav)**
 
 If this project helped you, consider giving it a ⭐
 
