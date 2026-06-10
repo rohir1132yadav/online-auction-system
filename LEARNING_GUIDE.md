@@ -612,6 +612,6 @@ Fork it. Break it. Rebuild it. Make it yours. 🚀
 
 <div align="center">
 
-*Built for learners, by [Avnish Kumar](https://github.com/theavnishkumar)*
+*Built for learners, by [Rohit Yadav](https://github.com/rohir1132yadav)*
 
 </div>

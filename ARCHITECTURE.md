@@ -749,6 +749,6 @@ auctionById controller checks:
 
 <div align="center">
 
-*Built with ❤️ by [Avnish Kumar](https://github.com/theavnishkumar)*
+*Built with ❤️ by [Rohit Yadav](https://github.com/rohir1132yadav)*
 
 </div>

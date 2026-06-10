@@ -4,7 +4,7 @@
 
 If you discover any security vulnerabilities, please report them responsibly by contacting:
 
-Email: hi@theavnishkumar.in
+Email: rohit9555456205yadav
 
 Please provide as much detail as possible, including:
 - Description of the vulnerability

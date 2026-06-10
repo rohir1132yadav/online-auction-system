@@ -4,7 +4,6 @@
 
 ### A full-stack real-time auction platform built with the MERN stack
 
-[![Live Demo](https://img.shields.io/badge/Live-auction.ihavetech.com-indigo?style=for-the-badge&logo=googlechrome&logoColor=white)](https://auction.ihavetech.com)
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 ![License](https://img.shields.io/github/license/rohir1132yadav/online-auction-system?style=flat-square)
