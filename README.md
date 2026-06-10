@@ -414,12 +414,6 @@ Distributed under the **MIT License**. See [LICENSE](LICENSE) for more informati
 
 <div align="center">
 
-<<<<<<< HEAD
-Developed by [Rohit Yadav](https://github.com/rohir1132yadav). Built for educational, security-focused, and full-stack learning purposes.
-#   o n l i n e - a u c t i o n - p l a t f o r m 
- 
- 
-=======
 **Built by [Rohit Yadav](https://github.com/rohir1132yadav)**
 
 If this project helped you, consider giving it a ⭐
@@ -427,4 +421,3 @@ If this project helped you, consider giving it a ⭐
 [⬆ Back to Top](#online-auction-system)
 
 </div>
->>>>>>> e625578ee6ce5dcb7277426ec34e87344313abba
