@@ -1,4 +1,4 @@
-# 📚 Learning Guide — What, Why & What's Next
+<img width="1340" height="879" alt="image" src="https://github.com/user-attachments/assets/c8a31fea-efd5-4952-bd5a-e661d38db51f" /># 📚 Learning Guide — What, Why & What's Next
 
 This project is built as a **learning resource** for MERN stack developers — from beginners to intermediate and beyond. It intentionally implements industry best practices while leaving plenty of room for learners to extend, improve, and make it their own.
 
